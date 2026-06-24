@@ -6,6 +6,8 @@
 
 Automated pipeline that extracts the top-ranked docking pose from AutoDock Vina output, converts it to PDB, builds the protein–ligand complex, runs [PLIP](https://github.com/pharmbio/plip) (Protein–Ligand Interaction Profiler, Nucl. Acids Res. 2015 43, W1: W443-W447, doi: 10.1093/nar/gkv315), and exports all detected non-covalent interactions as a clean CSV table along with detailed report files (text and XML).
 
+![Vina PLIP interactions files](outputs_screen.png)
+
 ## Features
 
 - Extracts the best pose (`MODEL 1`) from a multi-model Vina PDBQT file
