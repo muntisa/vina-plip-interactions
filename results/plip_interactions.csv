@@ -1,0 +1,7 @@
+interaction_type,protein_chain,amino_acid,protein_atom,ligand_name,ligand_atom,distance_angstrom
+hydrophobic,A,THR:4,CG2:18,UNL,C19,3.90
+hydrophobic,A,GLN:42,CB:309,UNL,C4,3.65
+hydrophobic,A,THR:59,CG2:432,UNL,C27,3.71
+hydrophobic,A,THR:61,CG2:447,UNL,C22,3.65
+hydrophobic,A,GLU:40,CB:293,UNL,C3,3.50
+hydrogen_bond,A,GLU:40,OE2:297,UNL,O20,3.15
