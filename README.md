@@ -4,7 +4,7 @@
 [![Python 3.10+](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-Automated pipeline that extracts the top-ranked docking pose from AutoDock Vina output, converts it to PDB, builds the protein–ligand complex, runs [PLIP](https://github.com/pharmbio/plip) (Protein–Ligand Interaction Profiler), and exports all detected non-covalent interactions as a clean CSV table along with detailed report files (text and XML).
+Automated pipeline that extracts the top-ranked docking pose from AutoDock Vina output, converts it to PDB, builds the protein–ligand complex, runs [PLIP](https://github.com/pharmbio/plip) (Protein–Ligand Interaction Profiler, Nucl. Acids Res. 2015 43, W1: W443-W447, doi: 10.1093/nar/gkv315), and exports all detected non-covalent interactions as a clean CSV table along with detailed report files (text and XML).
 
 ## Features
 
